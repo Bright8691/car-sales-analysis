@@ -152,19 +152,19 @@ Example input:
 |	Feature 	|	Values	    |
 |---------------|---------------|
 |	Location	|	Abuja
-|
+|				|
 |	Maker		|	Toyota
-|
+|				|
 |	Model		|	Camry
-|
+|				|
 |	Year		|	2023
-|
+|				|
 |	Colour		|	Black
-|
+|				|
 |	Type		|	Brand New
-|
+|				|
 |	Distance	|	18 km
-|
+|				|
 |	Vehicle Age	|	1 year
 
 
