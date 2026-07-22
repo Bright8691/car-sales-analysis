@@ -39,31 +39,31 @@ Target Variable
 # Project Workflow
 Business Understanding<br>
 	↓<br>
-Data Collection
+Data Collection<br>
 	↓<br>
-Data Cleaning
+Data Cleaning<br>
 	↓<br>
-Missing Value Treatment
+Missing Value Treatment<br>
 	↓<br>
-Feature Engineering
+Feature Engineering<br>
 	↓<br>
-Exploratory Data Analysis
+Exploratory Data Analysis<br>
 	↓<br>
-Train-Test Split
+Train-Test Split<br>
 	↓<br>
-Preprocessing Pipeline
+Preprocessing Pipeline<br>
 	↓<br>
-Model Training
+Model Training<br>
 	↓<br>
-Model Comparison
+Model Comparison<br>
 	↓<br>
-Hyperparameter Tuning
+Hyperparameter Tuning<br>
 	↓<br>
-Model Evaluation
+Model Evaluation<br>
 	↓<br>
-Save Best Model
+Save Best Model<br>
 	↓<br>
-Predict Selling Price
+Predict Selling Price<br>
 
 
 # End-to-End Industrial Workflow
@@ -126,7 +126,7 @@ The following regression models were evaluated:
 |	Linear Regression	|	6.29	|	14.00	|	0.72		|	0.56
 |						|			|			|				|
 |	Lasso Regression	|	7.89	|	22.51	|	0.28		|	0.30
-|-----------------------|-----------|-----------|---------------|----------
+
 
 # Best Performing Model
  Random Forest Regressor
