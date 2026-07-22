@@ -3,15 +3,15 @@ End-to-End Data analysis and Machine Learning Models for Car Sales Prediction
 
 # Project Overview
 The project was developed to advice and predict the selling price of used vehicles (foreign and local used) and brand new one for Nigerian automobile market. End-to-End industrial workflow was deployed in order to achieve optimum results. I started with data preprocessing and exploratory data analysis, model development, hyperparameter tuning, model evaluation, and price prediction for new vehicles.
-The project objective is to provide the model that give best prediction to support data-driven decision for buyers and seller both retail or whole in Nigerian automobile market. Because of economic and political instability in Nigeria, the model should not be the only means of decision making in the automobile market arena.
+The project objective is to provide the model that give best prediction to support data-driven decision for buyers and seller both retail or wholesale in Nigerian automobile market. Because of economic and political instability in Nigeria, the model should not be the only means of decision making in the automobile market arena.
 
 # Project Objective
 -	To develop and evaluate the best predicting model that can be used in selling vehicle.
 -	To identify the factors that affect vehicle prices most.
--	Select and compare the performance of up to regression models.
--	Develop a reusable preprocessing and prediction pipeline.
--	Enhance the selected model performance with the use of hyperparameter tuning.
--	Test the model to ascertain the percentage performance error and evaluate its application in the real world.
+-	To select and compare the performance of up to six regression models.
+-	To develop a reusable preprocessing and prediction pipeline.
+-	To enhance the selected model performance with the use of hyperparameter tuning.
+-	To test the model to ascertain the percentage performance error and evaluate its application in the real world.
 # Dataset
 The dataset contains information on vehicles listed for sale in Nigeria.
 Features include:
@@ -66,6 +66,7 @@ Save Best Model
 Predict Selling Price
 
 
+# End-to-End Industrial Workflow
 
 # Data Preprocessing
 The preprocessing stage included:
@@ -76,6 +77,7 @@ The preprocessing stage included:
 -	Delivery mileage handling for brand-new vehicles
 -	Vehicle age calculation
 -	Building preprocessing pipeline with columnTransfomer
+
 # Exploratory Data Analysis
 -	Price distribution
 -	Vehicle age distribution
@@ -85,6 +87,7 @@ The preprocessing stage included:
 -	Price by location
 -	Price versus mileage
 -	Correlation among numerical variables
+
 # Power BI
 Power BI Dashboard
 The interactive dashboard provides insights into transaction activity and fraud trends.
@@ -109,13 +112,20 @@ The following regression models were evaluated:
 -	
 
 # Model Performance	
-Model	MAE	RMSE	R² Score	CV R²
-Random Forest	3.06	11.57	0.81	0.68
-Gradient Boosting	4.49	12.26	0.79	0.68
-Decision Tree	3.34	12.69	0.77	0.64
-Ridge Regression	5.41	12.91	0.76	0.63
-Linear Regression	6.29	14.00	0.72	0.56
-Lasso Regression	7.89	22.51	0.28	0.30
+|	Model				|	MAE		|	RMSE	|	R²Score		|	CVR²	
+|-----------------------|-----------|-----------|---------------|------------
+|	Random Forest		|	3.06	|	11.57	|	0.81		|	0.68
+|_______________________|___________|___________|_______________|____________
+|	Gradient Boosting	|	4.49	|	12.26	|	0.79		|	0.68
+|_______________________|___________|___________|_______________|_____________
+|	Decision Tree		|	3.34	|	12.69	|	0.77		|	0.64
+|_______________________|___________|___________|_______________|_____________
+|	Ridge Regression	|	5.41	|	12.91	|	0.76		|	0.63
+|_______________________|___________|___________|_______________|_____________
+|	Linear Regression	|	6.29	|	14.00	|	0.72		|	0.56
+|_______________________|___________|___________|_______________|_____________
+|	Lasso Regression	|	7.89	|	22.51	|	0.28		|	0.30
+|_______________________|___________|___________|_______________|_____________
 
 # Best Performing Model
  Random Forest Regressor
@@ -135,20 +145,31 @@ Optimized parameters included:
 This improved the robustness and generalization capability of the final model.
 
  # Sample Prediction
-Example input:
-Feature	Value
+ 
+Example input: 
 
-	
-Location	Abuja
-Maker	Toyota
-Model	Camry
-Year	2023
-Colour	Black
-Type	Brand New
-Distance	18 km
-Vehicle Age	1 year
+|	Feature 	|	Values	    |
+|---------------|---------------|---
+|	Location	|	Abuja
+|---------------|---------------|---
+|	Maker		|	Toyota
+|---------------|---------------|----
+|	Model		|	Camry
+|---------------|---------------|----
+|	Year		|	2023
+|---------------|---------------|----
+|	Colour		|	Black
+|---------------|---------------|-----
+|	Type		|	Brand New
+|---------------|---------------|-
+|	Distance	|	18 km
+|---------------|---------------|-
+|	Vehicle Age	|	1 year
+|---------------|---------------|-
+
 Predicted Selling Price:
 ₦77.15 Million
+
 # Business Value
 This solution is designed to support the following:
 -	Vehicle dealers
