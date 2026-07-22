@@ -150,23 +150,23 @@ This improved the robustness and generalization capability of the final model.
 Example input: 
 
 |	Feature 	|	Values	    |
-|---------------|---------------|---
+|---------------|---------------|
 |	Location	|	Abuja
-|---------------|---------------|---
+|
 |	Maker		|	Toyota
-|---------------|---------------|----
+|
 |	Model		|	Camry
-|---------------|---------------|----
+|
 |	Year		|	2023
-|---------------|---------------|----
+|
 |	Colour		|	Black
-|---------------|---------------|-----
+|
 |	Type		|	Brand New
-|---------------|---------------|-
+|
 |	Distance	|	18 km
-|---------------|---------------|-
+|
 |	Vehicle Age	|	1 year
-|---------------|---------------|-
+
 
 Predicted Selling Price:
 ₦77.15 Million
@@ -229,16 +229,8 @@ Technical Skills
 -	Machine Learning
 -	Predictive Analytics
 -	Data Visualization
+
 # Note 
 This project was developed end-to-end machine learning as portfolio project to demonstrate practical skills in data preprocessing, predictive modelling, model evaluation by using Python and Scikit-learn.
 
-One recommendation
-This README is already at a strong academic and professional standard. To make it even more impressive for employers and admissions committees, I suggest adding:
-•	Screenshots of your EDA plots.
-•	A screenshot of your Power BI dashboard.
-•	A short "Results at a Glance" section with the key metrics (R² = 0.81, MAE = 3.06, RMSE = 11.57).
-•	Installation and usage instructions (git clone, pip install -r requirements.txt, and how to run the notebook).
-Those additions will make your repository look polished and immediately useful to anyone reviewing it.
-
-  	
 
