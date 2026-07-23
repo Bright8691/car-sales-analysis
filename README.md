@@ -229,9 +229,7 @@ Please Note: For the scope of this project, no further improvement was carried o
 -	The Flatline (15+ Years): At the point a vehicle exceeds 15 years, the value depreciates. 
 
 
-**Author**
-**Bright C Egbuchulem**
-**Data Analyst | Machine Learning Enthusiast | Civil Engineer**
+**Author: Bright C Egbuchulem<br>Data Analyst | Machine Learning Enthusiast | Civil Engineer**
 
 **Technical Skills**
 * **Python**
@@ -242,7 +240,6 @@ Please Note: For the scope of this project, no further improvement was carried o
 * **Predictive Analytics**
 * **Data Visualization**
 
-**Please Note**<br> 
-This project was developed end-to-end machine learning as portfolio project to demonstrate practical skills in data preprocessing, predictive modelling, model evaluation by using Python and Scikit-learn.
+**Please Note**<br>This project was developed end-to-end machine learning as portfolio project to demonstrate<br>practical skills in data preprocessing, predictive modelling, model evaluation by using Python and Scikit-learn.
 
 
