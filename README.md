@@ -168,8 +168,8 @@ This improved the robustness and generalization capability of the final model.
 |	Vehicle Age	|	1 year
 
 
-**Predicted Selling Price:**
-**₦77.15 Million**
+**Predicted Selling Price: ₦77.15 Million<br>Actual Selling Price: ₦75.00 million**
+
 
 # Business Value
 This solution is designed to support the following:
