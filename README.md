@@ -185,6 +185,8 @@ Potential applications include:
 -	Price guide
 
 Correlation Matrix
+
+<img width="600" height="600" alt="20260722_172655" src="https://github.com/user-attachments/assets/0b7d5259-d4a7-44f0-a088-cad1f9374a4f" />
  
 Correlation Matrix(Heat Map) Key
 -	Dark Brown/Red (+1.0): Strong positive relationship ( as one goes up, the other goes up)
@@ -211,6 +213,7 @@ o	Below 0: Overestimation (the car sold for less than predicted).
 Please Note: For the scope of this project, no further improvement was carried out on the project.
 
 Vehicle Age vs. Selling Price
+<img width="600" height="600" alt="20260722_171355" src="https://github.com/user-attachments/assets/9df7c45e-2724-49db-8a56-a72e10fede7c" />
 
  
 -	The High-Variance Zone (0-5 Years): Brand new and lightly used vehicles show a massive spread in pricing. We have normal vehicles at the base, while the super luxury went up to the axis to 450 million Naira.
