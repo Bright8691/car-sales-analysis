@@ -92,9 +92,9 @@ The preprocessing stage included:
 Power BI Dashboard
 The interactive dashboard provides insights into transaction activity and fraud trends.
 
-Executive KPIs<br>
-Dashboard Visualizations<br>
-Dashboard Preview
+**Executive KPIs<br>**
+**Dashboard Visualizations<br>**
+**Dashboard Preview**
 
 
 
