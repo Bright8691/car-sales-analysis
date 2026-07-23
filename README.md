@@ -103,12 +103,12 @@ Dashboard Preview
 
 # Machine Learning Models
 The following regression models were evaluated:
--	Linear Regression
--	Ridge Regression
--	Lasso Regression
--	Decision Tree Regressor
--	Random Forest Regressor
--	Gradient Boosting Regressor
+1. Linear Regression
+2. Ridge Regression
+3. Lasso Regression
+4. Decision Tree Regressor
+5. Random Forest Regressor
+6. Gradient Boosting Regressor
   
 
 # Model Performance	
