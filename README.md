@@ -89,7 +89,10 @@ The preprocessing stage included:
 -	Correlation among numerical variables
 
 # Power BI
-Power BI Dashboard
+**Power BI Dashboard**
+<img width="720" height="446" alt="car-4_image" src="https://github.com/user-attachments/assets/8da64bc8-f83a-458b-bf5e-3d6d66c63fc2" />
+
+
 The interactive dashboard provides insights into transaction activity and fraud trends.
 
 **Executive KPIs<br>**
