@@ -92,8 +92,8 @@ The preprocessing stage included:
 Power BI Dashboard
 The interactive dashboard provides insights into transaction activity and fraud trends.
 
-Executive KPIs
-Dashboard Visualizations
+Executive KPIs<br>
+Dashboard Visualizations<br>
 Dashboard Preview
 
 
@@ -129,7 +129,7 @@ The following regression models were evaluated:
 
 
 # Best Performing Model
- Random Forest Regressor
+**Random Forest Regressor**
 Reasons:
 -	Highest R² Score
 -	Lowest MAE
@@ -147,7 +147,7 @@ This improved the robustness and generalization capability of the final model.
 
  # Sample Prediction
  
-Example input: 
+**Example input:** 
 
 |	Feature 	|	Values	    |
 |---------------|---------------|
@@ -168,8 +168,8 @@ Example input:
 |	Vehicle Age	|	1 year
 
 
-Predicted Selling Price:
-₦77.15 Million
+**Predicted Selling Price:**
+**₦77.15 Million**
 
 # Business Value
 This solution is designed to support the following:
@@ -177,7 +177,7 @@ This solution is designed to support the following:
 -	Private buyers
 -	Online vehicle dealers
 -	Insurance companies
--	Financial institutions
+-	Financial institutions<br>
 Potential applications include:
 -	Vehicle price prediction
 -	Market trend analysis
@@ -185,7 +185,7 @@ Potential applications include:
 -	Price guide
 
 
-Correlation Matrix<br>
+**Correlation Matrix**<br>
 
 <img width="400" height="350" alt="20260722_170641" src="https://github.com/user-attachments/assets/555d73b5-5e51-412a-b1f0-a162cb546040" /><br>
  
@@ -199,7 +199,7 @@ Vehicle Price
 -	Distance vs. Price (-0.2): High mileage depreciates the Vehicle price.
 Our main concern is on the vehicle price and we have realized that the year (new vehicle), vehicle age and mileage covered by the vehicle is the primary determinant of vehicle price
 
-Actual vs. Predicted Prices<br>
+**Actual vs. Predicted Prices**<br>
 
 <img width="400" height="350" alt="20260722_172655" src="https://github.com/user-attachments/assets/1232e26f-70a0-4dc7-bc87-52cd296e3c92" />
 
@@ -207,7 +207,7 @@ Actual vs. Predicted Prices<br>
 -	The red straight line graph with scattered plots presents perfect prediction
 -	Any dot that falls directly on the line indicates that the model’s predicted price matched with the actual price.
 
-Residual Plot<br>
+**Residual Plot**<br>
 
 <img width="400" height="350" alt="20260722_172556" src="https://github.com/user-attachments/assets/88abe13a-90bc-4fff-b59c-c581d216e0c3" /><br>
 
@@ -220,7 +220,7 @@ Residual Plot<br>
 
 Please Note: For the scope of this project, no further improvement was carried out on the project.
 
-Vehicle Age vs. Selling Price<br>
+**Vehicle Age vs. Selling Price**<br>
 
 <img width="400" height="350" alt="20260722_171355" src="https://github.com/user-attachments/assets/9df7c45e-2724-49db-8a56-a72e10fede7c" /><br>
 
@@ -228,20 +228,21 @@ Vehicle Age vs. Selling Price<br>
 -	The Steep Drop (6-15 Years): The maximum price dropped. At the year 10, even the most expensive vehicles managed to hit 	250 million Naira. Which indicated that the most expensive vehicles loss their value fast in the last 10 years. 
 -	The Flatline (15+ Years): At the point a vehicle exceeds 15 years, the value depreciates. 
 
-Author
-Bright C Egbuchulem
-Data Analyst | Machine Learning Enthusiast | Civil Engineer
 
-Technical Skills
--	Python
--	SQL
--	Power BI
--	Excel
--	Machine Learning
--	Predictive Analytics
--	Data Visualization
+**Author**
+**Bright C Egbuchulem**
+**Data Analyst | Machine Learning Enthusiast | Civil Engineer**
 
-# Please Note 
+**Technical Skills**
+* **Python**
+* **SQL**
+* **Power BI**
+* **Excel**
+* **Machine Learning**
+* **Predictive Analytics**
+* **Data Visualization**
+
+**Please Note**<br> 
 This project was developed end-to-end machine learning as portfolio project to demonstrate practical skills in data preprocessing, predictive modelling, model evaluation by using Python and Scikit-learn.
 
 
