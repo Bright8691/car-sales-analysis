@@ -187,9 +187,9 @@ The visualization helps identify pricing patterns and market positioning across 
 
 **Slicers**<br>
 The dashboard includes interactive filters for:
-•	Vehicle Type
-•	Price Segment
-•	Location
+1. Vehicle Type
+2. Price Segment
+3. Location
 These allow users to explore the dashboard dynamically based on their business needs.
 
 **Business Insights**<br>
