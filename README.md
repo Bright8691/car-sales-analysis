@@ -145,7 +145,6 @@ This further shows each location's total monetry value by vehicle type
 Helps the Management can identify where their capital is tied up and to prioritize investment.
 
 **3. Listings by Location**<br>
-
 The dashboard also provided the following reports:
 •	Abuja Listings: 3,263
 •	Lagos Listings: 3,318
