@@ -164,7 +164,7 @@ This gives an insight on how to support branch performance and furture plan to e
 This implies that Abuja has the highest purchacing power, followed by Lagos. There is need to have close monitoring of
 sales in Abuja and Strategically improve sales in Ibadan.
 
-**5. Customer Purchase Power by Volume**
+**5. Customer Purchase Power by Volume**<br>
 The donut chart segments customers into four price categories:
 1. Budget (< ₦5M)
 2. Mid-Range (₦5M–₦15M)
