@@ -164,13 +164,14 @@ This gives an insight on how to support branch performance and furture plan to e
 This implies that Abuja has the highest purchacing power, followed by Lagos. There is need to have close monitoring of
 sales in Abuja and Strategically improve sales in Ibadan.
 
-**5. Customer Purchase Power by Volume**<br>
+**5. Customer Purchase Power by Volume**
 The donut chart segments customers into four price categories:
 1. Budget (< ₦5M)
 2. Mid-Range (₦5M–₦15M)
 3. Premium (₦15M–₦30M)
 4. Luxury (> ₦30M)
-**Insights**<br>
+
+**Insights**
 The largest customer segment is the Budget category (about 43%), followed by Mid-Range (about 39%). Premium and Luxury buyers make up a much smaller share.
 Business Value
 The dealership should prioritize affordable and mid-range vehicles, as these segments account for the majority of demand.
