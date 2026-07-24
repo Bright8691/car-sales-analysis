@@ -146,41 +146,40 @@ Helps the Management can identify where their capital is tied up and to prioriti
 
 **3. Listings by Location**<br>
 The dashboard also provided the following reports:
-•	Abuja Listings: 3,263
-•	Lagos Listings: 3,318
-•	Ibadan Listings: 624
+1. Abuja Listings: 3,263
+2. Lagos Listings: 3,318
+3. Ibadan Listings: 624
 
 **Insights**<br>
-Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.
+Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.<br>
 **Business Value**<br>
-Supports branch performance evaluation and expansion planning.
-
-**4. Average Car Price by Location**
-Insights<br>
-•	Abuja records the highest average selling price.
-•	Lagos follows closely.
-•	Ibadan has the lowest average vehicle price.
-Business Value<br>
-This suggests stronger purchasing power or greater demand for premium vehicles in Abuja compared with the other cities.
+This gives an insight on how to support branch performance and furture plan to expansion the business.<br>
+**4. Average Car Price by Location**<br>
+**Insights**<br>
+- The highest average sales were recorded in Abuja.
+- This was followed by Lagos.
+- Ibadan recorded the lowest average selling price.
+**Business Value**<br>
+This implies that Abuja has the highest purchacing power, followed by Lagos. There is need to have close monitoring of<br> sales in Abuja and Strategically improve sales in Ibadan.
 
 **5. Customer Purchase Power by Volume**<br>
 The donut chart segments customers into four price categories:
-•	Budget (< ₦5M)
-•	Mid-Range (₦5M–₦15M)
-•	Premium (₦15M–₦30M)
-•	Luxury (> ₦30M)
-Insights<br>
+1. Budget (< ₦5M)
+2. Mid-Range (₦5M–₦15M)
+3. Premium (₦15M–₦30M)
+4. Luxury (> ₦30M)
+**Insights**<br>
 The largest customer segment is the Budget category (about 43%), followed by Mid-Range (about 39%). Premium and Luxury buyers make up a much smaller share.
 Business Value
 The dealership should prioritize affordable and mid-range vehicles, as these segments account for the majority of demand.
 
 **6. Price Segment by Year and Vehicle Type**<br>
 This scatter plot visualizes the relationship between vehicle age, vehicle type, and price.
-Insights
-•	Brand New vehicles generally occupy the higher price range.
-•	Foreign Used vehicles show moderate price variation.
-•	Nigerian Used vehicles are concentrated in the lower price segments.
-Business Value
+**Insights**
+- Brand New vehicles generally occupy the higher price range.
+- Foreign Used vehicles show moderate price variation.
+- Nigerian Used vehicles are concentrated in the lower price segments.
+**Business Value**
 The visualization helps identify pricing patterns and market positioning across vehicle categories
 
 **Slicers**<br>
