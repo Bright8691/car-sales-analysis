@@ -148,31 +148,31 @@ The dashboard also provided the following reports:
 •	Lagos Listings: 3,318
 •	Ibadan Listings: 624
 
-Insights
+Insights<br>
 Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.
 Business Value
 Supports branch performance evaluation and expansion planning.
 
 **4. Average Car Price by Location**
-Insights
+Insights<br>
 •	Abuja records the highest average selling price.
 •	Lagos follows closely.
 •	Ibadan has the lowest average vehicle price.
-Business Value
+Business Value<br>
 This suggests stronger purchasing power or greater demand for premium vehicles in Abuja compared with the other cities.
 
-**5. Customer Purchase Power by Volume**
+**5. Customer Purchase Power by Volume**<br>
 The donut chart segments customers into four price categories:
 •	Budget (< ₦5M)
 •	Mid-Range (₦5M–₦15M)
 •	Premium (₦15M–₦30M)
 •	Luxury (> ₦30M)
-Insights
+Insights<br>
 The largest customer segment is the Budget category (about 43%), followed by Mid-Range (about 39%). Premium and Luxury buyers make up a much smaller share.
 Business Value
 The dealership should prioritize affordable and mid-range vehicles, as these segments account for the majority of demand.
 
-**6. Price Segment by Year and Vehicle Type**
+**6. Price Segment by Year and Vehicle Type**<br>
 This scatter plot visualizes the relationship between vehicle age, vehicle type, and price.
 Insights
 •	Brand New vehicles generally occupy the higher price range.
@@ -181,14 +181,14 @@ Insights
 Business Value
 The visualization helps identify pricing patterns and market positioning across vehicle categories
 
-**Slicers**
+**Slicers**<br>
 The dashboard includes interactive filters for:
 •	Vehicle Type
 •	Price Segment
 •	Location
 These allow users to explore the dashboard dynamically based on their business needs.
 
-**Business Insights**
+**Business Insights**<br>
 The analysis reveals that:
 •	Lagos and Abuja dominate the Nigerian used-car market in terms of inventory and listings.
 •	Abuja has the highest average vehicle price, indicating a stronger luxury market.
@@ -196,7 +196,7 @@ The analysis reveals that:
 •	Budget and Mid-Range vehicles account for more than 80% of customer demand, suggesting dealerships should prioritize stocking these categories.
 •	Premium vehicles contribute significantly to total asset value despite representing a smaller proportion of inventory.
 
-# Machine Learning Models
+# Machine Learning Models<br>
 The following regression models were evaluated:
 1. Linear Regression
 2. Ridge Regression
