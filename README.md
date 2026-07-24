@@ -92,11 +92,19 @@ The preprocessing stage included:
 **Power BI Dashboard**
 <img width="720" height="420" alt="car-4_image" src="https://github.com/user-attachments/assets/8da64bc8-f83a-458b-bf5e-3d6d66c63fc2" />
 
+The interactive dashboard provides insights into automoile sales.
 
-The interactive dashboard provides insights into transaction activity and fraud trends.
+**Dashboard Summary<br>**
+The dashboard displays an executive overview of the automobile sales inventory across three major States in<br>
+Nigerian automobile markets—Abuja, Lagos, and Ibadan. This will enable stakeholders to evaluate asset valuation, differences in price, distribution of inventory, categories of automobile, and customer purchasing power.
+The dashboard further supports decision-making by helping dealerships understand where inventory is concentrated, how vehicle values differ by location, and which customer price segments dominate the market.
 
 **Executive KPIs<br>**
-**Dashboard Summary<br>**
+*Total Vehicles*
+7,205 Vehicles
+The dealership currently has 7,205 vehicles available for sale across all locations.
+This indicates a large and diverse inventory capable of serving multiple customer segments
+
 
 
 
