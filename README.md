@@ -96,21 +96,104 @@ The interactive dashboard provides insights into automoile sales.
 
 **Dashboard Summary<br>**
 The dashboard displays an executive overview of the automobile sales inventory across three major States in<br>
-Nigerian automobile markets—Abuja, Lagos, and Ibadan. This will enable stakeholders to evaluate asset valuation, differences in price, distribution of inventory, categories of automobile, and customer purchasing power.
-The dashboard further supports decision-making by helping dealerships understand where inventory is concentrated, how vehicle values differ by location, and which customer price segments dominate the market.
+Nigerian automobile markets—Abuja, Lagos, and Ibadan. This will enable stakeholders to evaluate asset valuation,<br> differences in price, distribution of inventory, categories of automobile, and customer purchasing power.<br>
+The dashboard further supports decision-making by helping dealerships understand where inventory is concentrated,<br> how vehicle values differ by location, and which customer price segments dominate the market.
 
 **Executive KPIs<br>**
-*Total Vehicles*
-7,205 Vehicles
-The dealership currently has 7,205 vehicles available for sale across all locations.
-This indicates a large and diverse inventory capable of serving multiple customer segments
+**Total Vehicles**<br>
+7,205 Vehicles<br>
+The dealership currently has 7,205 vehicles available for sale across all locations.<br>
+This indicates a large and diverse inventory capable of serving multiple customer segments<br>
 
+**Total Asset**
+₦85,259.47 Million
+The total market value of all listed vehicles is approximately *₦85.26 billion*, demonstrating<br> the significant financial value of the dealership's inventory.<br>
 
+**Average Car Price**
+₦11.83 Million
+On average, vehicles are sold for approximately ₦11.83 million, providing a benchmark for pricing strategy.
 
+**Most Expensive Vehicle**
+₦456 Million
+The premium inventory reaches ₦456 million, indicating the dealership caters to luxury buyers.
 
+**Least Expensive Vehicle**
+₦0.45 Million
+The lowest-priced vehicle costs approximately ₦450,000, making the inventory accessible to budget-conscious customers
 
+**Visual Interpretation**
 
+**1. Car Location Breakdown**
+This clustered column chart compares the distribution of Brand New, Foreign Used, and Nigerian Used vehicles across Lagos, Abuja, and Ibadan.
+Insights
+•	Lagos contains the largest inventory.
+•	Foreign Used vehicles dominate across all locations.
+•	Brand New vehicles represent the smallest proportion of inventory.
+•	Nigerian Used vehicles contribute moderately to the available stock.
+Business Value
+This helps dealership managers understand where inventory is concentrated and optimize stock allocation.
 
+**2. Inventory Valuation Matrix**
+This chart shows the total monetary value of inventory by location and vehicle type.
+Insights
+•	Abuja has the highest inventory valuation.
+•	Lagos follows closely.
+•	Ibadan has the smallest asset value.
+Business Value
+Management can identify where capital is tied up and prioritize investment or inventory redistribution
+
+**3. Listings by Location**
+The dashboard also provided the following reports:
+•	Abuja Listings: 3,263
+•	Lagos Listings: 3,318
+•	Ibadan Listings: 624
+Insights
+Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.
+Business Value
+Supports branch performance evaluation and expansion planning.
+
+**4. Average Car Price by Location**
+Insights
+•	Abuja records the highest average selling price.
+•	Lagos follows closely.
+•	Ibadan has the lowest average vehicle price.
+Business Value
+This suggests stronger purchasing power or greater demand for premium vehicles in Abuja compared with the other cities.
+
+**5. Customer Purchase Power by Volume**
+The donut chart segments customers into four price categories:
+•	Budget (< ₦5M)
+•	Mid-Range (₦5M–₦15M)
+•	Premium (₦15M–₦30M)
+•	Luxury (> ₦30M)
+Insights
+The largest customer segment is the Budget category (about 43%), followed by Mid-Range (about 39%). Premium and Luxury buyers make up a much smaller share.
+Business Value
+The dealership should prioritize affordable and mid-range vehicles, as these segments account for the majority of demand.
+
+**6. Price Segment by Year and Vehicle Type**
+This scatter plot visualizes the relationship between vehicle age, vehicle type, and price.
+Insights
+•	Brand New vehicles generally occupy the higher price range.
+•	Foreign Used vehicles show moderate price variation.
+•	Nigerian Used vehicles are concentrated in the lower price segments.
+Business Value
+The visualization helps identify pricing patterns and market positioning across vehicle categories
+
+**Slicers**
+The dashboard includes interactive filters for:
+•	Vehicle Type
+•	Price Segment
+•	Location
+These allow users to explore the dashboard dynamically based on their business needs.
+
+**Business Insights**
+The analysis reveals that:
+•	Lagos and Abuja dominate the Nigerian used-car market in terms of inventory and listings.
+•	Abuja has the highest average vehicle price, indicating a stronger luxury market.
+•	Foreign Used vehicles represent the largest portion of inventory.
+•	Budget and Mid-Range vehicles account for more than 80% of customer demand, suggesting dealerships should prioritize stocking these categories.
+•	Premium vehicles contribute significantly to total asset value despite representing a smaller proportion of inventory.
 
 # Machine Learning Models
 The following regression models were evaluated:
