@@ -184,7 +184,7 @@ This scatter plot visualizes the relationship between vehicle age, vehicle type,
 - Foreign Used vehicles show moderate price variation.
 - Nigerian Used vehicles are concentrated in the lower price segments.
   
-**Business Value**
+**Business Value**<br>
 The visualization helps identify pricing patterns and market positioning across vehicle categories
 
 **Slicers**<br>
