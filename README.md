@@ -154,7 +154,8 @@ The dashboard also provided the following reports:
 Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.<br>
 **Business Value**<br>
 This gives an insight on how to support branch performance and furture plan to expansion the business.<br>
-**4. Average Car Price by Location**
+
+**4. Average Car Price by Location**<br>
 **Insights**
 - The highest average sales were recorded in Abuja.
 - This was followed by Lagos.
