@@ -171,9 +171,9 @@ The donut chart segments customers into four price categories:
 3. Premium (₦15M–₦30M)
 4. Luxury (> ₦30M)
 
-**Insights**
+**Insights**<br>
 The largest customer segment is the Budget category (about 43%), followed by Mid-Range (about 39%). Premium and Luxury buyers make up a much smaller share.
-Business Value
+**Business Value**
 The dealership should prioritize affordable and mid-range vehicles, as these segments account for the majority of demand.
 
 **6. Price Segment by Year and Vehicle Type**<br>
