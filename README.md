@@ -125,16 +125,18 @@ The lowest vehicle price is approximately ₦450,000.00, far much below the aver
 
 **1. Car Location Breakdown**<br>
 This clustered column chart compares the distribution of Brand New, Foreign Used, and Nigerian Used vehicles across Lagos, Abuja, and Ibadan.<br>
+
 **Insights**<br>
 1. Lagos has the largest number of vehicles.
 2. Foreign Used vehicles are in larger quantity in all locations because they are in high demand.
 3. Brand New vehicles represent the smallest proportion of inventory because they are in low demand.
 4. Nigerian Used vehicles contribute moderately to the available stock.<br>
-**Business Value**
+
+**Business Value**<br>
 This helps the dealership in assets management and been aware where his assets is more concenrated.
 
 **2. Inventory Valuation Matrix**<br>
-This further shows each location's total monetry value by vehicle type
+This further shows each location's total monetry value by vehicle type<br>
 
 **Insights**
 1. Abuja has more of Brand New and Luxury vehicles, as a result it has the highest inventory valuation.
