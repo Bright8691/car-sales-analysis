@@ -92,7 +92,7 @@ The preprocessing stage included:
 **Power BI Dashboard**
 <img width="720" height="420" alt="car-4_image" src="https://github.com/user-attachments/assets/8da64bc8-f83a-458b-bf5e-3d6d66c63fc2" />
 
-The interactive dashboard provides insights into automoile sales.
+The interactive dashboard provides insights into automobile sales.
 
 **Dashboard Summary**<br>
 The dashboard displays an executive overview of the automobile sales inventory across three major States in<br>
@@ -103,54 +103,57 @@ The dashboard further supports decision-making by helping dealerships understand
 **Total Vehicles**<br>
 7,205 Vehicles<br>
 The dealership currently has 7,205 vehicles available for sale across all locations.<br>
-This indicates a large and diverse inventory capable of serving multiple customer segments<br>
+Which is an evidence that the dealer having arrays of cars capable of serving across the multiple of customer groups.<br>
 
 **Total Asset**<br>
 ₦85,259.47 Million<br>
-The total market value of all listed vehicles is approximately *₦85.26 billion*, demonstrating<br> the significant financial value of the dealership's inventory.<br>
+The value equivalent in approximation to **₦85.26 billion**, in total assets of vehicles in the 3 locations. Which indicated that the dealer is prepared enough to satisfy the populace.<br>
 
 **Average Car Price**<br>
 ₦11.83 Million<br>
-On average, vehicles are sold for approximately ₦11.83 million, providing a benchmark for pricing strategy.
+This is the average cost of vehicles(Brand New, Foreign Used and Nigerian Used). It is for the purpose of know the average cost of vehicles. 
 
 **Most Expensive Vehicle**<br>
 ₦456 Million<br>
-The premium inventory reaches ₦456 million, indicating the dealership caters to luxury buyers.
+The most expensive automobile is ₦456 million, which indicate that the dealer has vehciles across different classess in the society.
 
 **Least Expensive Vehicle**<br>
 ₦0.45 Million<br>
-The lowest-priced vehicle costs approximately ₦450,000, making the inventory accessible to budget-conscious customers
+The lowest vehicle price is approximately ₦450,000.00, far much below the average car price of ₦11.83 Million. This indicates the car hub is complete because it accommodates people from different working class.
 
 **Visual Interpretation**
 
 **1. Car Location Breakdown**<br>
-This clustered column chart compares the distribution of Brand New, Foreign Used, and Nigerian Used vehicles across Lagos, Abuja, and Ibadan.
-Insights
-•	Lagos contains the largest inventory.
-•	Foreign Used vehicles dominate across all locations.
-•	Brand New vehicles represent the smallest proportion of inventory.
-•	Nigerian Used vehicles contribute moderately to the available stock.
-Business Value
-This helps dealership managers understand where inventory is concentrated and optimize stock allocation.
+This clustered column chart compares the distribution of Brand New, Foreign Used, and Nigerian Used vehicles across Lagos, Abuja, and Ibadan.<br>
+**Insights**<br>
+1. Lagos has the largest number of vehicles.
+2. Foreign Used vehicles are in larger quantity in all locations because they are in high demand.
+3. Brand New vehicles represent the smallest proportion of inventory because they are in low demand.
+4. Nigerian Used vehicles contribute moderately to the available stock.<br>
+**Business Value**
+This helps the dealership in assets management and been aware where his assets is more concenrated.
 
 **2. Inventory Valuation Matrix**<br>
-This chart shows the total monetary value of inventory by location and vehicle type.
-Insights
-•	Abuja has the highest inventory valuation.
-•	Lagos follows closely.
-•	Ibadan has the smallest asset value.
-Business Value
-Management can identify where capital is tied up and prioritize investment or inventory redistribution
+This further shows each location's total monetry value by vehicle type
+
+**Insights**
+1. Abuja has more of Brand New and Luxury vehicles, as a result it has the highest inventory valuation.
+2. This is followed by Lagos.
+3. The smallest asset value is in Ibadan, because of lack in patronage.
+   
+**Business Value**
+Helps the Management can identify where their capital is tied up and to prioritize investment.
 
 **3. Listings by Location**<br>
+
 The dashboard also provided the following reports:
 •	Abuja Listings: 3,263
 •	Lagos Listings: 3,318
 •	Ibadan Listings: 624
 
-Insights<br>
+**Insights**<br>
 Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.
-Business Value
+**Business Value**<br>
 Supports branch performance evaluation and expansion planning.
 
 **4. Average Car Price by Location**
