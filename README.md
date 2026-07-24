@@ -196,11 +196,11 @@ These allow users to explore the dashboard dynamically based on their business n
 
 **Business Insights**<br>
 The analysis reveals that:
-•	Lagos and Abuja dominate the Nigerian used-car market in terms of inventory and listings.
-•	Abuja has the highest average vehicle price, indicating a stronger luxury market.
-•	Foreign Used vehicles represent the largest portion of inventory.
-•	Budget and Mid-Range vehicles account for more than 80% of customer demand, suggesting dealerships should prioritize stocking these categories.
-•	Premium vehicles contribute significantly to total asset value despite representing a smaller proportion of inventory.
+- Abuja and Lagos dominates general car business in Nigeria because of population strenght and high demand of cars.
+- Abuja recorded the highest average car price, which shows a strong market force.
+- Foreign Used vehicles recorded the highest in demand and more in inventory.
+- Economical and Average vehicles are more than 80% of customer demand, which suggest the dealer should stock more these  	   class of cars in high for qiuck turn over. 
+- Luxury vehicles contribute meaningfully to the total asset value despite been in smaller number. However, there is need to still have them in propotion to balance up.
 
 # Machine Learning Models<br>
 The following regression models were evaluated:
