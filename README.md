@@ -116,19 +116,14 @@ The following regression models were evaluated:
 
 # Model Performance	
 
-|	Model				|	MAE		|	RMSE	|	R²Score		|	CVR²	
-|-----------------------|-----------|-----------|---------------|------------
-|	Random Forest		|	3.06	|	11.57	|	0.81		|	0.68
-|						|			|			|				|
-|	Gradient Boosting	|	4.49	|	12.26	|	0.79		|	0.68
-|						|			|			|				|
-|	Decision Tree		|	3.34	|	12.69	|	0.77		|	0.64
-|						|			|			|				|
-|	Ridge Regression	|	5.41	|	12.91	|	0.76		|	0.63
-|						|			|			|				|
-|	Linear Regression	|	6.29	|	14.00	|	0.72		|	0.56
-|						|			|			|				|
-|	Lasso Regression	|	7.89	|	22.51	|	0.28		|	0.30
+|	Model				|	MAE		|	RMSE	|	R²Score		|	CVR²	|	
+|-----------------------|-----------|-----------|---------------|-----------|-
+|	Random Forest		|	3.06	|	11.57	|	0.81		|	0.68	|
+|	Gradient Boosting	|	4.49	|	12.26	|	0.79		|	0.68	|
+|	Decision Tree		|	3.34	|	12.69	|	0.77		|	0.64	|
+|	Ridge Regression	|	5.41	|	12.91	|	0.76		|	0.63	|
+|	Linear Regression	|	6.29	|	14.00	|	0.72		|	0.56	|
+|	Lasso Regression	|	7.89	|	22.51	|	0.28		|	0.30	|
 
 
 # Best Performing Model
