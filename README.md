@@ -94,31 +94,31 @@ The preprocessing stage included:
 
 The interactive dashboard provides insights into automoile sales.
 
-**Dashboard Summary<br>**
+**Dashboard Summary**<br>
 The dashboard displays an executive overview of the automobile sales inventory across three major States in<br>
 Nigerian automobile markets—Abuja, Lagos, and Ibadan. This will enable stakeholders to evaluate asset valuation,<br> differences in price, distribution of inventory, categories of automobile, and customer purchasing power.<br>
 The dashboard further supports decision-making by helping dealerships understand where inventory is concentrated,<br> how vehicle values differ by location, and which customer price segments dominate the market.
 
-**Executive KPIs<br>**
-**Total Vehicles**
-7,205 Vehicles
+**Executive KPIs**<br>
+**Total Vehicles**<br>
+7,205 Vehicles<br>
 The dealership currently has 7,205 vehicles available for sale across all locations.<br>
 This indicates a large and diverse inventory capable of serving multiple customer segments<br>
 
-**Total Asset**
-₦85,259.47 Million
+**Total Asset**<br>
+₦85,259.47 Million<br>
 The total market value of all listed vehicles is approximately *₦85.26 billion*, demonstrating<br> the significant financial value of the dealership's inventory.<br>
 
-**Average Car Price**
-₦11.83 Million
+**Average Car Price**<br>
+₦11.83 Million<br>
 On average, vehicles are sold for approximately ₦11.83 million, providing a benchmark for pricing strategy.
 
-**Most Expensive Vehicle**
-₦456 Million
+**Most Expensive Vehicle**<br>
+₦456 Million<br>
 The premium inventory reaches ₦456 million, indicating the dealership caters to luxury buyers.
 
-**Least Expensive Vehicle**
-₦0.45 Million
+**Least Expensive Vehicle**<br>
+₦0.45 Million<br>
 The lowest-priced vehicle costs approximately ₦450,000, making the inventory accessible to budget-conscious customers
 
 **Visual Interpretation**
@@ -133,7 +133,7 @@ Insights
 Business Value
 This helps dealership managers understand where inventory is concentrated and optimize stock allocation.
 
-**2. Inventory Valuation Matrix**
+**2. Inventory Valuation Matrix**<br>
 This chart shows the total monetary value of inventory by location and vehicle type.
 Insights
 •	Abuja has the highest inventory valuation.
@@ -142,11 +142,12 @@ Insights
 Business Value
 Management can identify where capital is tied up and prioritize investment or inventory redistribution
 
-**3. Listings by Location**
+**3. Listings by Location**<br>
 The dashboard also provided the following reports:
 •	Abuja Listings: 3,263
 •	Lagos Listings: 3,318
 •	Ibadan Listings: 624
+
 Insights
 Lagos and Abuja account for the overwhelming majority of listings, while Ibadan has a comparatively smaller market presence.
 Business Value
