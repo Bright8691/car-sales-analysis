@@ -123,7 +123,7 @@ The lowest-priced vehicle costs approximately ₦450,000, making the inventory a
 
 **Visual Interpretation**
 
-**1. Car Location Breakdown**
+**1. Car Location Breakdown**<br>
 This clustered column chart compares the distribution of Brand New, Foreign Used, and Nigerian Used vehicles across Lagos, Abuja, and Ibadan.
 Insights
 •	Lagos contains the largest inventory.
