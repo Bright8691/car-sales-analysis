@@ -117,7 +117,7 @@ The following regression models were evaluated:
 # Model Performance	
 
 |	Model				|	MAE		|	RMSE	|	R²Score		|	CVR²	|	
-|-----------------------|-----------|-----------|---------------|-----------|-
+|-----------------------|-----------|-----------|---------------|-----------|
 |	Random Forest		|	3.06	|	11.57	|	0.81		|	0.68	|
 |	Gradient Boosting	|	4.49	|	12.26	|	0.79		|	0.68	|
 |	Decision Tree		|	3.34	|	12.69	|	0.77		|	0.64	|
