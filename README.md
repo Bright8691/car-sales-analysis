@@ -100,8 +100,8 @@ Nigerian automobile markets—Abuja, Lagos, and Ibadan. This will enable stakeho
 The dashboard further supports decision-making by helping dealerships understand where inventory is concentrated,<br> how vehicle values differ by location, and which customer price segments dominate the market.
 
 **Executive KPIs<br>**
-**Total Vehicles**<br>
-7,205 Vehicles<br>
+**Total Vehicles**
+7,205 Vehicles
 The dealership currently has 7,205 vehicles available for sale across all locations.<br>
 This indicates a large and diverse inventory capable of serving multiple customer segments<br>
 
