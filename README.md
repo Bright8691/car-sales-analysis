@@ -179,7 +179,7 @@ The dealership should prioritize affordable and mid-range vehicles, as these seg
 **6. Price Segment by Year and Vehicle Type**<br>
 This scatter plot visualizes the relationship between vehicle age, vehicle type, and price.
 
-**Insights**<br>
+**Insights**
 - Brand New vehicles generally occupy the higher price range.
 - Foreign Used vehicles show moderate price variation.
 - Nigerian Used vehicles are concentrated in the lower price segments.
