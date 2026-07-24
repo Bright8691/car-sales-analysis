@@ -143,7 +143,7 @@ This further shows each location's total monetry value by vehicle type<br>
 2. This is followed by Lagos.
 3. The smallest asset value is in Ibadan, because of lack in patronage.
    
-**Business Value**
+**Business Value**<br>
 Helps the Management can identify where their capital is tied up and to prioritize investment.
 
 **3. Listings by Location**<br>
